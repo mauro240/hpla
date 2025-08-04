@@ -66,4 +66,4 @@ while True:
     for evento in pygame.event.get():
         if evento.type == pygame.QUIT:
             pygame.quit()
-            sys.exit()# hpla
+            sys.exit()
